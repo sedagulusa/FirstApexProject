@@ -1,0 +1,12 @@
+// MethodPractice obj=new MethodPractice();
+// obj.MethodBoolean();
+// obj.MethodInteger();
+// obj.MethodString();
+// ArCalculations obj=new ArCalculations();
+// obj.addition(30, 2);
+// obj.subtraction(30, 10);
+// obj.multiplication(30, 3);
+// obj.division(30, 15);
+//SOQLPracticeDemo.allContacts();
+//SOQLPracticeDemo.latestContact();
+exceptionHandling.databaseMethodemo();

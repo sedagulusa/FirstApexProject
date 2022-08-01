@@ -1,0 +1,12 @@
+// AirlineTicket tt=new AirlineTicket();
+// tt.departureCity='Paris';
+// tt.arrivalCity='HongKong';
+// tt.flightNumber='6E003HR';
+// tt.seatNumber='12F';
+// tt.printTicket();
+// tt.departureCity='Istanbul';
+// tt.arrivalCity='Atlanta';
+// tt.flightNumber='6T006HP';
+// tt.seatNumber='23F';
+// tt.printTicket();
+AirlineTicket.futureSendEmail('Paris','London','adc243','90 LF');
