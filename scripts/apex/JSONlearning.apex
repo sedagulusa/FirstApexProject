@@ -34,14 +34,14 @@ List<Account> accList2=(List<Account>)JSON.deserialize(jsonStringAcc2, List<Acco
 system.debug('Deserialize list '+accList2);
 
 /*XML*/
-//JSON
+//JSON-REST
 {
     "Name" : "Grand Hotels & Resorts Ltd",
     "Type" : "Customer - Direct",
     "Rating" : "Hot",
     "AnnualRevenue" : 100000000
 }
-//XML
+//XML-SOAP
 <Account>
     <Name>Grand Hotels & Resorts Ltd</Name>
     <Type>Customer - Direct</Type>
